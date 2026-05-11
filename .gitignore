@@ -1,0 +1,53 @@
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local texture folders are intentionally kept outside Git.
+Texture_*/
+
+# Images and texture files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.svg
+*.psd
+
+# Documents
+*.pdf
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+*.wma
+
+# Archives and compressed files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.tgz
+
+# Heavy 3D/source assets
+*.3ds
