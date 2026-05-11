@@ -3,8 +3,9 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Local texture folders are intentionally kept outside Git.
+# Local project drawers are intentionally kept outside Git.
 Texture_*/
+Musique/
 
 # Images and texture files
 *.jpg
@@ -20,6 +21,17 @@ Texture_*/
 
 # Documents
 *.pdf
+
+# Ebooks
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.fb2
+*.djvu
+*.ibooks
+*.lit
+*.lrf
 
 # Video files
 *.mp4
